@@ -47,9 +47,52 @@
 
 //  'hitesh'   true
 
- let someNumber=33;
+// let someNumber=33;
+// let stringNumber=String(someNumber)
+// console.log(stringNumber);
+// console.log(typeof stringNumber)
 
- let stringNumber=String(someNumber)
- console.log(stringNumber);
- console.log(typeof stringNumber);
- 
+
+/******************************OPERATON****************************/
+//   let value=3;
+
+//   let negValue=-value;
+
+//   console.log(negValue);
+
+
+//   let str1="sumit"
+//   let str2="yadav"
+
+//   console.log(str1+" "+str2);
+  
+//   console.log('1'+2);
+
+//   console.log(1+'2');
+
+//   console.log('1'+2+2);
+//   console.log(1+2+'2');
+  
+
+
+//console.log(+true);    // gives 1
+
+//console.log(true+);   // syntax error
+
+//console.log(+"");  // gives 0
+
+// let num1, num2, num3
+
+// num1=num2=num3=2+2;
+
+// let gameCounter =100;
+
+// gameCounter++;
+// console.log(gameCounter);  // gives 101
+// let gameCounter =100;
+
+// ++gameCounter;    // also gives 101
+// console.log(gameCounter);
+
+
+
